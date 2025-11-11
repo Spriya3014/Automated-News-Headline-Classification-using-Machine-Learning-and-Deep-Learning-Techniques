@@ -66,12 +66,11 @@ Data is divided into **training and test sets** to evaluate model generalization
 ---
 
 ##  Model Performance
-| Model | Accuracy | F1-score | Loss
-|--------|-----------|-----------|
+| Model | Accuracy | F1-score | Loss |
 | Random Forest | 0.89 | 0.90 |
 | Naive Bayes | 0.90 | 0.90 |
 | XGBoost | 0.90 | 0.91 |
-| LSTM | 0.87 |     | 0.38
+| LSTM | 0.87 |     | 0.38 |
 
 ---
 
