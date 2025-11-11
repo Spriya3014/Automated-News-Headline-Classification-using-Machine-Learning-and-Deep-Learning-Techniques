@@ -1,6 +1,6 @@
-# 📰 Automated News Headline Classification using Machine Learning and Deep Learning Techniques
+#  Automated News Headline Classification using Machine Learning and Deep Learning Techniques
 
-## 📘 Project Overview
+##  Project Overview
 This project aims to automatically classify **news headlines** into predefined categories such as Politics, Sports, Business, Entertainment, and Technology.  
 It combines **Machine Learning** and **Deep Learning (LSTM)** techniques to achieve high accuracy in text classification.  
 
@@ -9,7 +9,7 @@ The best-performing model is saved and later used to predict new or unseen headl
 
 ---
 
-## 🚀 Project Workflow
+##  Project Workflow
 1. **Data Preprocessing**
    - Tokenization  
    - Stopword Removal  
@@ -55,7 +55,7 @@ The best-performing model is saved and later used to predict new or unseen headl
 
 ---
 
-## 📊 Dataset
+##  Dataset
 Dataset used: Custom or Kaggle News Headline Dataset  
 Each record includes:
 - `headline`: The text of the news headline  
@@ -65,7 +65,7 @@ Data is divided into **training and test sets** to evaluate model generalization
 
 ---
 
-## 🧠 Model Performance
+##  Model Performance
 | Model | Accuracy | F1-score | Loss
 |--------|-----------|-----------|
 | Random Forest | 0.89 | 0.90 |
