@@ -1,7 +1,7 @@
 #  Automated News Headline Classification using Machine Learning and Deep Learning Techniques
 
 ##  Project Overview
-This project aims to automatically classify **news headlines** into predefined categories such as Politics, Sports, Business, Entertainment, and Technology.  
+This project aims to automatically classify **news headlines** into predefined categories such as World News, Sports, Business, and Technology.  
 It combines **Machine Learning** and **Deep Learning (LSTM)** techniques to achieve high accuracy in text classification.  
 
 The system performs **complete NLP preprocessing**, applies **feature engineering**, and compares multiple models — including Random Forest, Naive Bayes, XGBoost, and LSTM — with **GridSearchCV** for hyperparameter optimization.  
